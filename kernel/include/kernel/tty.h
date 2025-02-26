@@ -1,7 +1,9 @@
-/*  Kernel TTY
-    Author: Aryan Karamtoth
-    Created Date: 26 Feb 2025
-    Last Revised: 26 Feb 2025
+/*  
+* File name: tty.h
+* Author: Aryan Karamtoth
+* Created Date: 26 Feb 2025
+* Last Revised: 26 Feb 2025
+* License: GNU GPL 3.0
 */
 
 //macro definitions
